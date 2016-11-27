@@ -3,7 +3,10 @@
   "version": "0.4.2",
   "description": "",
   "dependencies": {
-    "skyweb": "^0.2.0"
+    "assert": "^1.4.1",
+    "mongo": "^0.1.0",
+    "skyweb": "^0.2.0",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {},
   "scripts": {},
